@@ -38,3 +38,7 @@ msgstr ""
 #: main.c:14
 msgid "Thank you for using Weblate."
 msgstr ""
+
+#, php-format
+msgid "PHP Format"
+msgstr ""
