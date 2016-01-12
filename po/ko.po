@@ -19,8 +19,8 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 #: main.c:11
-#, max-font-width:150, font-desc: "Arial 10"
 #, c-format, max-font-width:20
+#, max-font-width:150, font-desc: "Arial 10"
 msgid "Hello, world!\n"
 msgstr ""
 
