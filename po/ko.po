@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 #: main.c:11
-#, c-format, font-desc: "DejaVu Sans 10", max-font-width:3
+#, c-format, font-desc: "DejaVu Sans 10", max-font-width:130
 msgid "Hello, world!\n"
 msgstr ""
 
