@@ -20,6 +20,7 @@ msgstr ""
 
 #: main.c:11
 #, c-format, font-desc: "DejaVu Sans 10", max-font-width:130
+#, max-font-width:150
 msgid "Hello, world!\n"
 msgstr ""
 
