@@ -21,6 +21,7 @@ msgstr ""
 #: main.c:11
 #, c-format, max-font-width:20
 #, max-font-width:150, font-desc: "Arial 10"
+#, max-length: 3
 msgid "Hello, world!\n"
 msgstr "안녕하세요, 여러분!\n"
 
